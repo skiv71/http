@@ -1,0 +1,28 @@
+{
+  "name": "@skivy71/http",
+  "version": "1.0.0",
+  "description": "Http Module",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/http.git"
+  },
+  "keywords": [
+    "Http",
+    "Module",
+    "Axios"
+  ],
+  "author": "Neil Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/http/issues"
+  },
+  "homepage": "https://github.com/skiv71/http#readme"
+}
