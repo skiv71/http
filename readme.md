@@ -18,7 +18,9 @@ try {
     var { data } = skivy71.http.get(`https://www.google.com`)
     console.log(data) // some crap
 } catch(e) {
-    var { data: error } = e
-    console.log(error) // something useful, hopefully!
+    console.log(e) // new Error(...)
+    console.log(e.message) // response.data?
+    console.log(e.status) // response.status
+    console.log(e.headers) // response.headers
 }
 ```
