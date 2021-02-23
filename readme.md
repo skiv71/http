@@ -10,7 +10,7 @@ Usage
 -----
 ```JavaScript
 var skivy71 = {
-    http: require('@skivy71/http)
+    http: require('@skivy71/http')
 }
 
 // async

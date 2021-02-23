@@ -1,10 +1,10 @@
 {
   "name": "@skivy71/http",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Http Module",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {},
   "scripts": {
